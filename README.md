@@ -96,7 +96,7 @@ library-database-management-system/
 │
 ├── documentation/     # All diagrams, system analysis, testing, GUI screenshots
 │
-├── sql/               # All SQL scripts: tables, views, procedures, privileges
+├── sql/               # All SQL scripts
 
 │
 └── README.md
